@@ -9,3 +9,6 @@
 7. [写作——普通人最应该掌握的技能]()
 8. [英文语法的真相]()
 9. [雅思高分作文]()
+
+---
+全部作品，点击[sunjiong's works](https://github.com/sunjiong/sunjiong.github.io)
